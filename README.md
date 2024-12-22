@@ -1,6 +1,4 @@
 
-# Image Classification using Convolutional Neural Networks (CNN) on CIFAR-10 Dataset
-
 ## Overview
 This project demonstrates how to use Convolutional Neural Networks (CNN) for image classification. We use the CIFAR-10 dataset, which contains 60,000 32x32 color images across 10 distinct classes, including airplanes, cars, birds, and more. The aim is to accurately classify these images into their respective categories.
 
