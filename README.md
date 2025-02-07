@@ -32,11 +32,7 @@ The final layer is a softmax layer, which outputs probabilities across the 10 cl
 ## Training and Evaluation
 The model is trained using the **Adam optimizer** and a **sparse categorical cross-entropy** loss function. After training, the model is evaluated on the test set, achieving an accuracy of around **70-75%**.
 
-### Training Parameters
-- **Epochs**: 10
-- **Batch Size**: 32
-- **Optimizer**: Adam
-- **Loss Function**: Sparse Categorical Cross-Entropy
+
 
 
 
